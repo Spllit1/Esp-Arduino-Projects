@@ -16,9 +16,9 @@
 - How do i build one?
   - Parts
     - Esp8266 NodeMCU
+    - Attiny85
     - Button
     - RGB LED
-    - Idk yet
 - How do i program it?
   - costome programming language
     - SPlang
